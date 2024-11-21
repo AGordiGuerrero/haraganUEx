@@ -3,15 +3,14 @@
 
 ## Motivation
 
-To design and be able to fabricate useful tools, using surrounding waste materials to help in a disease, is very motivating.
+To design and fabricate useful tools using surrounding waste materials is very motivating and much more to help in a disease,.
 
-In this case we where impacted by recent water and mud flood, 29-30th october 2024, at Valencia, Spain. Resulting in more than 200 deads and
-uncountable material wounds.
+In this case we where impacted by a recent water flood, on 29-30th october 2024, at Valencia, Spain. Resulting in more than 200 people dead and
+uncountable material wounds. After the flood, they do not have even access to tools to remove the dirty.
 
-After the flood, they do not have access to tools to remove the dirty and we were motivaded  
+After [this new](https://www.levante-emv.com/ribera/2024/11/07/artista-fallero-carcaixent-fabrica-haraganes-dana-valencia-111407203.html), and speaking with friends there, we decided to start the construction of slots (haraganes).
 
-## Motivation
-
+# Design
 <img width="600" src="https://github.com/user-attachments/assets/026a4247-c13c-4fa0-b14e-653e6763bccc">
 
 
